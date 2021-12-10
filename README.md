@@ -20,3 +20,5 @@ To run this project, install it locally using npm:
 $ npm install
 $ npm run start
 ```
+## Inspiration
+This application was based on React tutorial https://www.udemy.com/course/build-web-apps-with-react-firebase/
